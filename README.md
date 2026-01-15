@@ -1,1 +1,1 @@
-# UART-TrafficLightController
+This project implements a UART-controlled traffic light system on the DE2 FPGA using structural VHDL. The design integrates multiple finite state machines (FSMs) to manage serial communication, message transmission, and traffic light sequencing. The system communicates with a PC terminal by sending ASCII-encoded state messages over UART for debugging and monitoring purposes.
